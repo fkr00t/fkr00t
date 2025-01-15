@@ -27,9 +27,9 @@ I'm a passionate **Cybersecurity Enthusiast** and **Bug Hunter** with a strong i
 
 ## 🌟 Support
 
-If you find my work interesting, consider supporting me by buying me a coffee!
+If you find my work interesting, consider supporting me by buying me a cendol or supporting me on Trakteer!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourhandle)
+[![Trakteer](https://img.shields.io/badge/-Trakteer-FF5E5E?style=flat-square&logo=ko-fi&logoColor=white)](https://trakteer.id/fkr00t)
 
 ---
 
