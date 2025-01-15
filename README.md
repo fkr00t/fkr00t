@@ -34,5 +34,5 @@ If you find my work interesting, consider supporting me by buying me a cendol or
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fkr00t&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
