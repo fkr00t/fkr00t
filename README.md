@@ -11,7 +11,7 @@ I'm a passionate **Cybersecurity Enthusiast** and **Bug Hunter** with a strong i
 - 🔭 I’m currently working on **Penetration Tester** and **Security Researcher**.
 - 🌱 I’m currently learning **Advanced Exploitation Techniques** and **Threat Intelligence**.
 - 💬 Ask me about **Web Application Security, Network Security, and Bug Hunting**.
-- 📫 How to reach me: [fkr00t](mailto:fkr00t@duck.com)
+- 📫 How to reach me: [fkr00t@duck.com](mailto:fkr00t@duck.com)
 
 ---
 
