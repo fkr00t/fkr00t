@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About Me
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 I'm a passionate **Cybersecurity Enthusiast** and **Bug Hunter** with a strong interest in identifying vulnerabilities, securing systems, and contributing to a safer digital world. I enjoy exploring new tools, techniques, and methodologies to stay ahead in the ever-evolving field of cybersecurity.
 
