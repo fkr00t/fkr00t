@@ -1,6 +1,6 @@
 # 👋 Hello, I'm The Ophiuchus!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;DevOps+Enggier;Cybersecurity+Enthusiast;Bug+Hunter;Penetration+Tester;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;DevOps+Engginer;Cybersecurity+Enthusiast;Bug+Hunter;Penetration+Tester;Web+Developer)](https://git.io/typing-svg)
 
 ---
 
